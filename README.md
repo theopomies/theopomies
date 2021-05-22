@@ -31,8 +31,10 @@ Le télétravail ne me dérange pas du tout!
 
 Pour toutes proposition de mission, je vous invite à me contacter sur mon adresse professionnelle:
 - 📩 theo.pomies@outlook.com
+
 ou sur mon profil Malt:
 - [Profile Malt](https://www.malt.fr/profile/theopomies)
+
 ou Linkedin:
 - [Profile Linkedin](https://www.linkedin.com/in/theo-pomies-dev/)
 
