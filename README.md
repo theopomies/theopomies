@@ -7,24 +7,24 @@
 
 🎓 Je prépare mon Titre d'Expert en Technologies de l'Information (RNCP - Niveau 1)
 
-📈 Mon parcours:
+## 📈 Mon parcours:
 Bac mention TB + section Européenne Anglais
--> Cursus ingénieur en Data Science (1 an)
--> THP - Bootcamp de dev web
--> Epitech en 2ème année actuellement
+- Cursus ingénieur en Data Science (1 an)
+- THP - Bootcamp de dev web
+- Epitech en 2ème année actuellement
 
-💻 Mon expérience:
+## 💻 Mon expérience:
 - Développement Web depuis 3 ans
 - Programmation mathématique (algorithmique) depuis 2 ans
 - Programmation système depuis 2 ans
 - DevOps depuis 1 an
 
-🔥 Je souhaite intervenir sur des projets de développement:
--> Web Frontend JavaScript/TypeScript, ReactJS
--> Backend/Software NodeJS, Rust, Python
--> Fullstack (JavaScript/TypeScript (+React.JS), NodeJS, Rust, Python)
+## 🔥 Je souhaite intervenir sur des projets de développement:
+- Web Frontend JavaScript/TypeScript, ReactJS
+- Backend/Software NodeJS, Rust, Python
+- Fullstack (JavaScript/TypeScript (+React.JS), NodeJS, Rust, Python)
 
-⏱ Très actif sur la plateforme, n'hésitez pas à me contacter pour discuter de votre projet, je vous répondrai dans l'heure.
+⏱ Très actif , n'hésitez pas à me contacter pour discuter de votre projet, je vous répondrai dans l'heure.
 
 Le télétravail ne me dérange pas du tout!
 
