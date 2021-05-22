@@ -24,15 +24,16 @@ Bac mention TB + section Européenne Anglais
 - Backend/Software NodeJS, Rust, Python
 - Fullstack (JavaScript/TypeScript (+React.JS), NodeJS, Rust, Python)
 
+## 📩 Contact
 ⏱ Très actif , n'hésitez pas à me contacter pour discuter de votre projet, je vous répondrai dans l'heure.
 
 Le télétravail ne me dérange pas du tout!
 
 Pour toutes proposition de mission, je vous invite à me contacter sur mon adresse professionnelle:
-📩 theo.pomies@outlook.com
+- 📩 theo.pomies@outlook.com
 ou sur mon profil Malt:
-[Profile Malt](https://www.malt.fr/profile/theopomies)
+- [Profile Malt](https://www.malt.fr/profile/theopomies)
 ou Linkedin:
-[Profile Linkedin](https://www.linkedin.com/in/theo-pomies-dev/)
+- [Profile Linkedin](https://www.linkedin.com/in/theo-pomies-dev/)
 
 #ReadyToHelp #ReadyToWork
