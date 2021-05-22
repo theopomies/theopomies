@@ -21,8 +21,8 @@ Bac mention TB + section Européenne Anglais
 
 ## 🔥 Je souhaite intervenir sur des projets de développement:
 - Web Frontend JavaScript/TypeScript, ReactJS
-- Backend/Software NodeJS, Rust, Python
-- Fullstack (JavaScript/TypeScript (+React.JS), NodeJS, Rust, Python)
+- Backend/Software NodeJS, ExpressJS, Rust, Deno, Python, PostgreSQL
+- Fullstack (JavaScript/TypeScript (+React.JS), Node.JS, Express.JS, Rust, Deno, PostgreSQL)
 
 ## 📩 Contact
 ⏱ Très actif , n'hésitez pas à me contacter pour discuter de votre projet, je vous répondrai dans l'heure.
