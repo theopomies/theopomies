@@ -1,7 +1,8 @@
 # 💻 [Théo Pomies](https://www.malt.fr/profile/theopomies) pour votre projet! 🦕
-[![Profile View Counter](https://komarev.com/ghpvc/?username=KenKakura)](https://github.com/KenKakura)
 [![Stats Github de Théo](https://github-readme-stats.vercel.app/api?username=KenKakura&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KenKakura)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenKakura&layout=compact&count_private=true&theme=tokyonight)](https://github.com/KenKakura)
+
+[![Profile View Counter](https://komarev.com/ghpvc/?username=KenKakura)](https://github.com/KenKakura)
 
 📚 Étudiant bordelais de 21 ans à l'Epitech, passionné d'informatique et de développement avec des ambitions entrepreneuriales.
 
