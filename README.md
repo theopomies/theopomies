@@ -1,8 +1,8 @@
 # 💻 [Théo Pomies](https://www.malt.fr/profile/theopomies) pour votre projet! 🦕
-[![Stats Github de Théo](https://github-readme-stats.vercel.app/api?username=KenKakura&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theopomies)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenKakura&layout=compact&count_private=true&theme=tokyonight)](https://github.com/theopomies)
+[![Stats Github de Théo](https://github-readme-stats.vercel.app/api?username=theopomies&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theopomies)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theopomies&layout=compact&count_private=true&theme=tokyonight)](https://github.com/theopomies)
 
-[![Profile View Counter](https://komarev.com/ghpvc/?username=KenKakura)](https://github.com/KenKakura)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=theopomies)](https://github.com/theopomies)
 
 📚 Étudiant bordelais de 21 ans à l'Epitech, passionné d'informatique et de développement avec des ambitions entrepreneuriales.
 
