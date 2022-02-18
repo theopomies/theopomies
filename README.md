@@ -1,42 +1,38 @@
-# 💻 [Théo Pomies](https://www.malt.fr/profile/theopomies) pour votre projet! 🦕
-[![Stats Github de Théo](https://github-readme-stats.vercel.app/api?username=theopomies&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theopomies)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theopomies&layout=compact&count_private=true&theme=tokyonight)](https://github.com/theopomies)
+# 🦀 Currently falling down the Bitcoin Rabbit Hole 🟠
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=theopomies&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/theopomies)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theopomies&layout=compact&count_private=true&theme=gruvbox)](https://github.com/theopomies)
 
 [![Profile View Counter](https://komarev.com/ghpvc/?username=theopomies)](https://github.com/theopomies)
 
-📚 Étudiant bordelais de 21 ans à l'Epitech, passionné d'informatique et de développement avec des ambitions entrepreneuriales.
+**Currently actively looking for an internship related to Rust, Bitcoin and/or LN development! Please contact me**
 
-🎓 Je prépare mon Titre d'Expert en Technologies de l'Information (RNCP - Niveau 1)
+📚 21, French Student based in Bordeaux, 3rd year at Epitech, IT/CS, wannabe entrepreneur with a growing interest in FOSS, Bitcoin & LN.
 
-## 📈 Mon parcours:
-Bac mention TB + section Européenne Anglais
-- Cursus ingénieur en Data Science (1 an)
-- THP - Bootcamp de dev web
-- Epitech en 2ème année actuellement
+🎓 Preparing my title of IT Expert.
 
-## 💻 Mon expérience:
-- Développement Web depuis 3 ans
-- Programmation mathématique (algorithmique) depuis 2 ans
-- Programmation système depuis 2 ans
-- DevOps depuis 1 an
+## 📈 Studies:
+Bac with highest honors + English option
+- Data Science Eng. (1y)
+- THP - Web Dev bootcamp
+- Epitech (3y & counting)
+- TOEIC 970 + TOEFL 116
+- +3.85 GPA
 
-## 🔥 Je souhaite intervenir sur des projets de développement:
-- Web Frontend JavaScript/TypeScript, ReactJS
-- Backend/Software NodeJS, ExpressJS, Rust, Deno, Python, PostgreSQL
-- Fullstack (JavaScript/TypeScript (+React.JS), Node.JS, Express.JS, Rust, Deno, PostgreSQL)
+## 💻 My experience:
+- Web Dev 3y
+- Algo 2y
+- Systems 2y
+- DevOps 1y
+
+## 🔥 Favorite tech stack:
+- Web Frontend: JavaScript/TypeScript, ReactJS, Next.JS, Chakra
+- Backend: Node/Deno/Rust/Postgres
+- System/Binaries: Rust
+- Scripting: Python/TS
 
 ## 📩 Contact
-⏱ Très actif , n'hésitez pas à me contacter pour discuter de votre projet, je vous répondrai dans l'heure.
-
-Le télétravail ne me dérange pas du tout!
-
-Pour toutes proposition de mission, je vous invite à me contacter sur mon adresse professionnelle:
 - 📩 theo.pomies@outlook.com
-
-ou sur mon profil Malt:
-- [Profile Malt](https://www.malt.fr/profile/theopomies)
-
-ou Linkedin:
-- [Profile Linkedin](https://www.linkedin.com/in/theo-pomies-dev/)
+- 🐦 [@theopomies](https://www.twitter.com/theopomies)
+- [Linkedin](https://www.linkedin.com/in/theo-pomies-dev/)
 
 #ReadyToHelp #ReadyToWork
