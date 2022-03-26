@@ -16,7 +16,7 @@ Bac with highest honors + English option
 - THP - Web Dev bootcamp
 - Epitech (3y & counting)
 - TOEIC 970 + TOEFL 116
-- +3.85 GPA
+- +3.90 GPA
 
 ## 💻 My experience:
 - Web Dev 3y
