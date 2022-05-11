@@ -6,7 +6,7 @@
 
 **Currently actively looking for an internship related to Rust, Bitcoin and/or LN development! Please contact me**
 
-📚 21, French Student based in Bordeaux, 3rd year at Epitech, IT/CS, wannabe entrepreneur with a growing interest in FOSS, Bitcoin & LN.
+📚 22, French Student based in Bordeaux, 3rd year at Epitech, IT/CS, wannabe entrepreneur with a growing interest in FOSS, Bitcoin & LN.
 
 🎓 Preparing my title of IT Expert.
 
