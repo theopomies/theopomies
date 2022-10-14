@@ -10,29 +10,7 @@
 
 🎓 Preparing my title of IT Expert.
 
-## 📈 Studies:
-Bac with highest honors + English option
-- Data Science Eng. (1y)
-- THP - Web Dev bootcamp
-- Epitech (3y & counting)
-- TOEIC 970 + TOEFL 116
-- +3.90 GPA
-
-## 💻 My experience:
-- Web Dev 3y
-- Algo 2y
-- Systems 2y
-- DevOps 1y
-
-## 🔥 Favorite tech stack:
-- Web Frontend: JavaScript/TypeScript, ReactJS, Next.JS, Chakra
-- Backend: Node/Deno/Rust/Postgres
-- System/Binaries: Rust
-- Scripting: Python/TS
-
 ## 📩 Contact
 - 📩 theo.pomies@outlook.com
 - 🐦 [@theopomies](https://www.twitter.com/theopomies)
 - [Linkedin](https://www.linkedin.com/in/theo-pomies-dev/)
-
-#ReadyToHelp #ReadyToWork
