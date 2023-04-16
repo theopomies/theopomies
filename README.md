@@ -1,4 +1,4 @@
-# Rust, Python & Next addict, Backend, Data & AI, Quant
+# Rust, Python & Next addict. Backend. Learning Data & AI, Quant
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=theopomies&count_private=true&show_icons=true&theme=dark)](https://github.com/theopomies)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theopomies&layout=compact&count_private=true&theme=dark)](https://github.com/theopomies)
 
