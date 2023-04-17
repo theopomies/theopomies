@@ -13,4 +13,4 @@
 ## 📩 Contact
 - 📩 theo.pomies@outlook.com
 - 🐦 [@theopomies](https://www.twitter.com/theopomies)
-- [Linkedin](https://www.linkedin.com/in/theo-pomies-dev/)
+- [Linkedin](https://www.linkedin.com/in/theopomies/)
