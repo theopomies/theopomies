@@ -4,7 +4,7 @@
 
 [![Profile View Counter](https://komarev.com/ghpvc/?username=theopomies)](https://github.com/theopomies)
 
-📚 23, French Student based in Bordeaux, tth year at Epitech, IT/CS, wannabe entrepreneur.
+📚 23, French Student based in Bordeaux, 5th year at Epitech, IT/CS, wannabe entrepreneur.
 
 📍 Currently freelancing from Manhattan/Brooklyn, NY
 
