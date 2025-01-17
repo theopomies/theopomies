@@ -4,11 +4,11 @@
 
 [![Profile View Counter](https://komarev.com/ghpvc/?username=theopomies)](https://github.com/theopomies)
 
-📚 24, French Software Engineer, based in Bordeaux, 5th year at Epitech, IT/CS, entrepreneur.
+📚 24, French Software Engineer, based in Bordeaux, Epitech Graduate, IT/CS, entrepreneur. Currently in love with React Native ⚛️📱 and Native Modules.
 
-📍 Currently CTO and Builder @ [Kivala](https://kivala.io) and Freelancing from Bordeaux, France
+📍 Currently CTO and Builder @ [Kivala](https://kivala.fr) and Freelancing from Bordeaux, France
 
-🎓 Preparing my title of IT Expert.
+🎓 IT Expert graduate.
 
 ## 📩 Contact
 - 📩 theo.pomies@outlook.com
